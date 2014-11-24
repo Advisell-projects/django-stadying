@@ -38,6 +38,11 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
 )
 
+#asdasdasdasdasdasdasdasdasd*
+#asdasdasdasdasdasdasdasdasd*
+#asdasdasdasdasdasdasdasdasd*
+#asdasdasdasdasdasdasdasdasd*
+
 MIDDLEWARE_CLASSES = (
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
